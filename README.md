@@ -45,51 +45,41 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
+- [ ] Esboço do Front End;
+- [ ] Arquivo CSV com os três anos solicitados juntos;
+- [ ] Arquivo CSV com todos os arquivos combinados;
+- [ ] Colunas de interesse visíveis;
+- [ ] Página do GitHub com detalhes do projeto;
+- [ ] Correção de dados conforme comentários do cliente;
 - [ ] Teste e revise;
-- [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Análise de dados do Python para o Power BI;
+- [ ] Visualização de um "Top 10";
+- [ ] Mapa produzido por Python;
+- [ ] Correção de dados conforme comentários do cliente;
+- [ ] Revisão e Ajustes;
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
+- [ ] Produzir um mapa que evidencie as rotas;
+- [ ] Correção de dados conforme comentários do cliente;
+- [ ] Entrega do protótipo final do projeto;
 - [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
 - [ ] Teste e revise;
-- [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Apresentação do relatório do projeto;
+- [ ] Entrega do dashboard final para o cliente;
 
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|01 | 13/03/2025 | a fazer| [MVP](https://) | 
+|02|  02/04/2025 | a fazer|[MVP](https://) | 
+|03| 23/04/2025 | a fazer|[MVP](https://) | 
+|04| 25/06/2025 |a fazer |[MVP](https://)  | 
+|Feira de Soluções|28/05/2025 |a fazer |[MVP](https://) | 
