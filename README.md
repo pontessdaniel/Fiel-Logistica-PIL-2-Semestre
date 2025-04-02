@@ -1,12 +1,6 @@
 # Fiel-Logistica-PIL-2-Semestre
-
-# Aprendizado por Projeto Integrador (API)
-
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
-
 # Índice
+
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -15,7 +9,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+O projeto integrador (API) é um projeto pedagógico, onde é focado no desenvolvimento de um produto que auxilia visualizar dados do ComexStat nos anos 2022 á 2025. 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -27,17 +21,17 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Eduardo Santos Carvalho                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardosantoscarvalho/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Portugga)   |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+O projeto tem como objetivo a implementação de operações de importação de produtos para o exterior, visando ampliar a presença internacional. A proposta envolve a análise de produtos estratégicos e desenvolvimento de uma cadeia logística eficiente, que abrange desde o fornecimento até a entrega no destino final.
+Será realizada uma pesquisa detalhada e uma avaliação sobre as melhores práticas de transporte internacional, custos envolvidos e possíveis parcerias com fornecedores e distribuidores locais.
+Esse projeto visa não só o aumento das exportações, mas também o fortalecimento no mercado global, contribuindo para o crescimento sustentável de uma empresa no cenário internacional.
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+* Github
+* Jira Software
+* Power BI
+* Slack
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
