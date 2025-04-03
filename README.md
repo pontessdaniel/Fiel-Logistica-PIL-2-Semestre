@@ -78,7 +78,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|28/05/2025 |a fazer |[MVP](https://) | 
 |04| 25/06/2025 |a fazer |[MVP](https://)  | 
 
-|01|[MVP]
+|01|[MVP]Arquivos_Relacionados_FielLog_MVP.ipynb
 |02|[MVP]
 |03| [MVP]
 |Feira de Solucões| [MVP]
