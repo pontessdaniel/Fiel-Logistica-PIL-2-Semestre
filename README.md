@@ -73,7 +73,7 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 02/04/2025 | a fazer| [MVP](Arquivos_Relacionados_FielLog.ipynb)| 
+|01 | 02/04/2025 | Feito | [MVP](Arquivos_Relacionados_FielLog.ipynb)| 
 |02|  23/04/2025 | a fazer|[MVP](https://) | 
 |03| 14/05/2025 | a fazer|[MVP](https://) | 
 |Feira de Soluções|28/05/2025 |a fazer |[MVP](https://) | 
