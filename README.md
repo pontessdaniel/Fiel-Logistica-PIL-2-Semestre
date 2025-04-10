@@ -39,14 +39,14 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Esboço do Front End;
-- [ ] Arquivo CSV com os três anos solicitados juntos;
-- [ ] Arquivo CSV com todos os arquivos combinados;
-- [ ] Colunas de interesse visíveis;
-- [ ] Página do GitHub com detalhes do projeto;
-- [ ] Correção de dados conforme comentários do cliente;
-- [ ] Teste e revise;
-- [ ] Criação do vídeo;
+- [ x] Esboço do Front End;
+- [x ] Arquivo CSV com os três anos solicitados juntos;
+- [x ] Arquivo CSV com todos os arquivos combinados;
+- [x ] Colunas de interesse visíveis;
+- [x ] Página do GitHub com detalhes do projeto;
+- [ x] Correção de dados conforme comentários do cliente;
+- [x ] Teste e revise;
+- [x ] Criação do vídeo;
 
 ## Sprint 2
 - [ ] Análise de dados do Python para o Power BI;
