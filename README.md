@@ -32,6 +32,7 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 * Jira Software
 * Power BI
 * Slack
+* Python
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
