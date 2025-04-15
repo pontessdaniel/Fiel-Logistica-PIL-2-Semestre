@@ -7,6 +7,7 @@
 * [Sprints](#Sprints)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
+* [Relatório](#Relatório)
 
 # Projeto (API) 
 O projeto integrador (API) é um projeto pedagógico, onde neste caso é focado no desenvolvimento de um produto que auxilia visualizar dados do ComexStat nos anos 2022 á 2024. 
