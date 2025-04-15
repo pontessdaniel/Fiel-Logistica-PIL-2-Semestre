@@ -28,14 +28,15 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
-* GitHub
-* Jira Software
-* Slack
+* [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+* [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+* [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
   
  ### Tecnologias da Informação
-* Power BI
-* Python
-* Comex Stat
+* 	[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+* [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
+* [![Comex Stat](https://img.shields.io/badge/Comex%20Stat-4CBB17)](#)
 
 # Backlog do produto
 
