@@ -28,14 +28,14 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
-* Github
+* GitHub
 * Jira Software
-* Power BI
 * Slack
-* Python
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+* Power BI
+* Python
+* Comex Stat
 
 # Backlog do produto
 
@@ -47,7 +47,7 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [x] Página do GitHub com detalhes do projeto;
 - [x] Correção de dados conforme comentários do cliente;
 - [x] Teste e revise;
-- [x] Criação do vídeo.
+- [ ] Criação do vídeo.
 
 ## Sprint 2
 - [ ] Análise de dados do Python para o Power BI;
