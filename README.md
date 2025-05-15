@@ -52,11 +52,11 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [ ] Criação do vídeo.
 
 ## Sprint 2
-- [ ] Análise de dados do Python para o Power BI;
+- [x] Análise de dados do Python para o Power BI;
 - [ ] Visualização de um "Top 10";
-- [ ] Mapa produzido por Python;
-- [ ] Correção de dados conforme comentários do cliente;
-- [ ] Revisão e Ajustes.
+- [x] Mapa produzido por Python;
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Revisão e Ajustes.
       
 ## Sprint 3
 - [ ] Produzir um mapa que evidencie as rotas;
