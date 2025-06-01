@@ -72,7 +72,7 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [ ] Entrega do dashboard final para o cliente.
 
 # Video Projeto API Fiel Log
-|[Video]() | 
+|[Video](VideoProjetoAPI_FielLog.mp4) | 
 
 # Sprints
 
