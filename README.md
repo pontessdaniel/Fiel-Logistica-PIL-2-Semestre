@@ -71,6 +71,8 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [ ] Apresentação do relatório do projeto;
 - [ ] Entrega do dashboard final para o cliente.
 
+# Video Projeto API Fiel Log
+
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
