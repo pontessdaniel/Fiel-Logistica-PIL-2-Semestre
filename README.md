@@ -81,5 +81,5 @@ Sprint | Previsão | Status| Histórico|
 |01 | 02/04/2025 | Feito | [MVP](Arquivos_Relacionados_FielLog.ipynb)| 
 |02|  30/04/2025 | Feito |[MVP](ARQUIVO_OFICIAL_FielLog.ipynb)| 
 |03| 21/05/2025  | Feito |[MVP](TABELA_OFICIAL_COM_AS_COORDENADAS.ipynb) |
-|03| 21/05/2025 | Feito | |[Video](VideoProjetoAPI_FielLog.mp4)| 
+|03| 21/05/2025 | Feito ||[Video](VideoProjetoAPI_FielLog.mp4)| 
 |Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://) | 
