@@ -40,6 +40,7 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 * [![Comex Stat](https://img.shields.io/badge/Comex%20Stat-4CBB17)](#)
 
 # Backlog do produto
+![BackLog](https://github.com/user-attachments/assets/7ae49727-49e9-4c3e-b945-8d603ddf4999)
 
 ## Sprint 1
 - [x] Esboço do Front End;
