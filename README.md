@@ -49,11 +49,11 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [x] Página do GitHub com detalhes do projeto;
 - [x] Correção de dados conforme comentários do cliente;
 - [x] Teste e revise;
-- [ ] Criação do vídeo.
+- [x] Criação do vídeo.
 
 ## Sprint 2
 - [x] Análise de dados do Python para o Power BI;
-- [ ] Visualização de um "Top 10";
+- [x] Visualização de um "Top 10";
 - [x] Mapa produzido por Python;
 - [x] Correção de dados conforme comentários do cliente;
 - [x] Revisão e Ajustes.
