@@ -48,7 +48,7 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [x] Página do GitHub com detalhes do projeto;
 - [x] Correção de dados conforme comentários do cliente;
 - [x] Teste e revise;
-- [x] Criação do vídeo.
+
 
 ## Sprint 2
 - [x] Análise de dados do Python para o Power BI;
@@ -58,13 +58,12 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [x] Revisão e Ajustes.
       
 ## Sprint 3
-- [ ] Produzir um mapa que evidencie as rotas;
-- [ ] Correção de dados conforme comentários do cliente;
-- [ ] Entrega do protótipo final do projeto;
-- [ ] Escolha cores e fontes;
-- [ ] Teste e revise;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Entrega do protótipo final do projeto;
+- [x] Escolha cores e fontes;
+- [x] Teste e revise;
+- [x] Criação do vídeo;
+- [x] Finalize e aprovação.
       
 ## Sprint 4
 - [ ] Apresentação do relatório do projeto;
