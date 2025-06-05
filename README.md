@@ -47,7 +47,7 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [x] Colunas de interesse visíveis;
 - [x] Página do GitHub com detalhes do projeto;
 - [x] Correção de dados conforme comentários do cliente;
-- [x] Teste e revise;
+- [x] Teste e revise.
 
 
 ## Sprint 2
