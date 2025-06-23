@@ -40,6 +40,9 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 # Backlog do produto
 ![BackLog](https://github.com/user-attachments/assets/7ae49727-49e9-4c3e-b945-8d603ddf4999)
 
+# Relatório
+[RelatorioAPI.docx](https://github.com/user-attachments/files/20866078/RelatorioAPI.docx)
+
 ## Sprint 1
 - [x] Esboço do Front End;
 - [x] Arquivo CSV com os três anos solicitados juntos;
