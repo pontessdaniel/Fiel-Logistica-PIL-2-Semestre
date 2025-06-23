@@ -66,8 +66,8 @@ Esse projeto visa não só o aumento das exportações, mas também o fortalecim
 - [x] Finalize e aprovação.
       
 ## Sprint 4
-- [ ] Apresentação do relatório do projeto;
-- [ ] Entrega do dashboard final para o cliente.
+- [x] Apresentação do relatório do projeto;
+- [x] Entrega do dashboard final para o cliente.
 
 # Video Projeto API Fiel Log
 https://github.com/user-attachments/assets/99f97837-66da-42d1-a26a-34404ebae05f
@@ -80,4 +80,4 @@ Sprint | Previsão | Status| Histórico|
 |01 | 02/04/2025 | Feito | [MVP](Arquivos_Relacionados_FielLog.ipynb)| 
 |02|  30/04/2025 | Feito |[MVP](ARQUIVO_OFICIAL_FielLog.ipynb)| 
 |03| 21/05/2025  | Feito |[MVP](TABELA_OFICIAL_COM_AS_COORDENADAS.ipynb) |
-|Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://) | 
+|Feira de Soluções| 17/06/2025 |Feito|[MVP](TABELA_FINAL_CORRIGIDO.ipynb) | 
