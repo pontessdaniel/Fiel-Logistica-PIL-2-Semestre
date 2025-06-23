@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/99f97837-66da-42d1-a26a-34404ebae05f
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 02/04/2025 | Feito | [MVP](Arquivos Relacionados FielLog.ipynb)| 
+|01 | 02/04/2025 | Feito | [MVP](Arquivos_Relacionados_FielLog.ipynb)| 
 |02|  30/04/2025 | Feito |[MVP](TABELA_FINAL_CORRIGIDO.ipynb)| 
 |03| 21/05/2025  | Feito |[MVP](TABELA_FINAL_CORRIGIDO.ipynb) |
 |Feira de Soluções| 17/06/2025 |Feito|[MVP](TABELA_FINAL_CORRIGIDO.ipynb) | 
